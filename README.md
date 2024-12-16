@@ -56,31 +56,31 @@ Required Python libraries:
 
 **Data Inputs:-**
 
-Temperature (°C): Average temperature of the region.
+🔹Temperature (°C): Average temperature of the region.
 
-Humidity (%): Humidity percentage during the growing period.
+🔹Humidity (%): Humidity percentage during the growing period.
 
-Rainfall (mm): Expected or recorded rainfall.
+🔹Rainfall (mm): Expected or recorded rainfall.
 
-Soil Moisture (%): Soil moisture content.
+🔹Soil Moisture (%): Soil moisture content.
 
-Soil pH: Soil acidity/alkalinity level.
+🔹Soil pH: Soil acidity/alkalinity level.
 
-Crop Type: Select one of the available crops: Wheat, Rice, Corn, or Soybean.
+🔹Crop Type: Select one of the available crops: Wheat, Rice, Corn, or Soybean.
 
-Season: Choose from Kharif, Rabi, or Zaid.
+🔹Season: Choose from Kharif, Rabi, or Zaid.
 
 
 
 **Visualization Insights:-**
 
-Yield vs Area: Predicts yield for different land sizes.
+🔹Yield vs Area: Predicts yield for different land sizes.
 
-Profit vs Area: Visualizes profit trends based on land size.
+🔹Profit vs Area: Visualizes profit trends based on land size.
 
-Best Crop for Season: Highlights the most profitable crop for the selected season.
+🔹Best Crop for Season: Highlights the most profitable crop for the selected season.
 
-Crop Cost vs Profit: Compares the cultivation cost with expected profit.
+🔹Crop Cost vs Profit: Compares the cultivation cost with expected profit.
 
 
 
