@@ -5,7 +5,8 @@ A Python-based agriculture crop prediction system using Random Forest regression
 
 **Overview:-**
 
-AgriYieldPredictor is an agriculture crop prediction system built using Python. This tool uses machine learning to predict crop yields, estimate profits, and provide fertilizer recommendations based on user inputs such as temperature, humidity, rainfall, soil properties, crop type, and season. The application features an interactive GUI built with Tkinter and includes data visualizations using Matplotlib.
+AgriYieldPredictor is an agriculture crop prediction system built using Python. 
+This tool uses machine learning to predict crop yields, estimate profits, and provide fertilizer recommendations based on user inputs such as temperature, humidity, rainfall, soil properties, crop type, and season. The application features an interactive GUI built with Tkinter and includes data visualizations using Matplotlib.
 
 
 
@@ -26,7 +27,7 @@ AgriYieldPredictor is an agriculture crop prediction system built using Python. 
 
 Python 3.8 or above
 
-Required Python libraries:
+Required Python libraries:-
 
 🔹tkinter
 
