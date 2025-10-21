@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-# Sample data for scaling and feature encoding
+#Sample data for scaling and feature encoding
 scaler = StandardScaler()
 dummy_data = pd.DataFrame(
     {
