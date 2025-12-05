@@ -23,6 +23,7 @@ This tool uses machine learning to predict crop yields, estimate profits, and pr
 🔹User-Friendly GUI: Includes an intuitive graphical user interface for easy interaction.
 
 
+
 **Prerequisites:-**
 
 Python 3.8 or above
